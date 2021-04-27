@@ -1,0 +1,11 @@
+body {
+    background-color: peachpuff;
+}
+
+.wrapper {
+    background-color: palegoldenrod;
+    min-height: 100vh;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}
